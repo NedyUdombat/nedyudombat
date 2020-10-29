@@ -13,9 +13,9 @@ Finally got around to setting this up! I am a software engineer(Gun man) who giv
 
 👨‍💻 **So I'm:**
   - Currently working on my personal growth and trying reduce my height so I can walk through doors.
-  - Currently learning React Native and testing in Javascript
-  - Looking to collaborate on any pet project in an around React and React Native, it could be libraries, or any app to make developer sleep better at night
-  - Playing my part in the fight against police brutality in Nigeria #EndSars ✊
+  - Currently learning React Native and testing in Javascript.
+  - Looking to collaborate on any pet project in and around React, React Native, Vue, NodeJS. It could be libraries or any app that makes developers sleep better at night.
+  - Playing my part in the fight against police brutality in Nigeria #EndSars ✊.
 
 
 ---
