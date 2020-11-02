@@ -29,4 +29,5 @@ Finally got around to setting this up! I am a software engineer(Gun man) who giv
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nedyudombat&show_icons=true&count_private=true&theme=dark&hide_title=true&hide_border=true&line_height=20&text_color=fff&icon_color=fff&bg_color=0,000,000,222,999)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nedyudombat&langs_count=10&layout=compact&theme=dark&hide_title=true&hide_border=true&line_height=18&text_color=fff&icon_color=fff&bg_color=0,000,000,222,999)
+
 ![Profile views](https://gpvc.arturio.dev/nedyudombat)
