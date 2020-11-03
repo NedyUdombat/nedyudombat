@@ -1,5 +1,5 @@
 # 👋 Hola! If I may? 👋
-Finally got around to setting this up! I am a software engineer(Gun man) who gives bugs tough times and sleepless nights.
+Finally got around to setting this up! I am a software engineer(Gun man) who gives bugs tough times and sleepless nights. (sike!!! :sweat_smile:).
 
 ⚡️ **What do I do, you ask?** 
 - I am currently responsible for waging war against bugs at [Enle](http://enle.co/).
