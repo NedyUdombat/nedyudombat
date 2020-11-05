@@ -1,10 +1,11 @@
 # 👋 Hola! If I may? 👋
-Finally got around to setting this up! I am a software engineer(Gun man) who gives bugs tough times and sleepless nights. (sike!!! :sweat_smile:).
+Finally got around to setting this up! I am a software engineer(gun-man) who gives bugs tough times and sleepless nights. (sike!!! :sweat_smile:).
 
 ⚡️ **What do I do, you ask?** 
 - I am currently responsible for waging war against bugs at [Enle](http://enle.co/).
 - I battle impostor syndrome by writing on [LogRocket](https://blog.logrocket.com/author/nedyudombat/) and [Dev.to](https://dev.to/nedyudombat)
 - Build cool tools in my spare time. Check out my VScode theme: [Lights-Out](https://marketplace.visualstudio.com/items?itemName=nedy.lights-out)
+- I love to collaborate on creating free tools and libraries.
 
 
 📫 **How to reach me:**
