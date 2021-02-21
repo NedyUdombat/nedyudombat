@@ -18,13 +18,13 @@ Finally got around to setting this up! I am a software engineer(gun-man) who giv
 
 👨‍💻 **So I'm:**
   - Currently working on my personal growth and trying reduce my height so I can walk through doors.
-  - Currently learning React Native and testing in Javascript.
+  - Currently learning Go, React Native and testing in Javascript.
   - Looking to collaborate on any pet project in and around React, React Native, Vue, NodeJS. It could be libraries or any app that makes developers sleep better at night.
   - Playing my part in the fight against police brutality in Nigeria #EndSars ✊.
 
 
 ---
-💬 You can ask me about [anything](https://curiouscat.qa/Nedy) really.
+💬 You can ask me about [anything](https://curiouscat.qa/Nedy) really or read about my work history [here](https://www.notion.so/Edidiong-Nedy-Udombat-39ac6864fcd84a298e79e198590a4c19).
 
 ⚡ Fun fact: I love playing soccer, invite me to play soccer in your area.
 
