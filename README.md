@@ -2,10 +2,10 @@
 Finally got around to setting this up! I am a software engineer(gun-man) who gives bugs tough times and sleepless nights. (sike!!! :sweat_smile:).
 
 ⚡️ **What do I do, you ask?** 
-- I am currently responsible for waging war against bugs at [Enle](http://enle.co/).
+- I am currently responsible for waging war against bugs at my organization.
 - I battle impostor syndrome by writing on [LogRocket](https://blog.logrocket.com/author/nedyudombat/) and [Dev.to](https://dev.to/nedyudombat)
 - Build cool tools in my spare time. Check out my VScode theme: [Lights-Out](https://marketplace.visualstudio.com/items?itemName=nedy.lights-out)
-- I love to collaborate on creating free tools and libraries.
+- I love to collaborate on creating developer focused tools and libraries.
 
 
 📫 **How to reach me:**
@@ -17,10 +17,8 @@ Finally got around to setting this up! I am a software engineer(gun-man) who giv
 </p>  
 
 👨‍💻 **So I'm:**
-  - Currently working on my personal growth and trying reduce my height so I can walk through doors.
-  - Currently learning Flutter, React Native, Typescript and testing in Javascript(I know, it is what the job requires, I don't make the rules).
+  - Currently learning React Native, Typescript and testing in Javascript(I know, it is what the job requires, I don't make the rules).
   - Looking to collaborate on any pet project in and around React, React Native, Vue, NodeJS. It could be libraries or any app that makes developers sleep better at night.
-  - Playing my part in the fight against police brutality in Nigeria #EndSars ✊.
 
 
 ---
